@@ -11,7 +11,7 @@ There are 3 parts:
 - Login / signup at https://jstseguru.in/geekahertz-beaconaid
 
 
-<br><br><br><br>
+<br><br>
 ## Hospital / Admin
 1. Jaypee Hospital (or Hosp 1)
     - Email: admin@jaypee.com
@@ -24,7 +24,7 @@ There are 3 parts:
     - Password: beacon
 - Login at https://jstseguru.in/geekahertz-beaconaid/dashboard/hospital/login
 
-<br><br><br><br><br><br>
+<br><br>
 
 
 
