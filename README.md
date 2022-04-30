@@ -14,13 +14,13 @@ There are 3 parts:
 ## Hospital / Admin
 1. Jaypee Hospital (or Hosp 1)
     - Email: admin@jaypee.com
-    - Password: beacon
+    - Password: trix
 2. Max Hospital (or Hosp 2)
     - Email: admin@maxhealthcare.in
-    - Password: beacon
+    - Password: trix
 3. Fortix Hospital (or Hosp 3)
     - Email: admin@fortis.com
-    - Password: beacon
+    - Password: trix
 - Login at http://fickmc.in/beacon-aid/dashboard/hospital/
 
 <br><br>
@@ -30,11 +30,11 @@ There are 3 parts:
 ## Ambulance
 1. Jaypee Ambulance (or Hosp 1)
     - Email: ambulance@jaypee.com
-    - Password: beacon
+    - Password: trix
 2. Max Ambulance (or Hosp 1)
     - Email: ambulance@maxhealthcare.com
-    - Password: beacon
+    - Password: trix
 3. Fortis Ambulance (or Hosp 1)
     - Email: ambulance@fortis.com
-    - Password: beacon
+    - Password: trix
 - Login at http://fickmc.in/beacon-aid/dashboard/ambulance/
