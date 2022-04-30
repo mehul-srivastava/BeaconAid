@@ -6,9 +6,8 @@ The project has been deployed at https://jstseguru.in/geekahertz-beaconaid
 
 There are 3 parts:
 ## User
-- Use the credentials: email: `mehulsrivastava@gmail.com` and password: `mehul1206`
 - You can also register a new account with your own credentials
-- Login / signup at https://jstseguru.in/geekahertz-beaconaid
+- Login / signup at http://fickmc.in/beacon-aid/sign-in
 
 
 <br><br>
@@ -22,7 +21,7 @@ There are 3 parts:
 3. Fortix Hospital (or Hosp 3)
     - Email: admin@fortis.com
     - Password: beacon
-- Login at https://jstseguru.in/geekahertz-beaconaid/dashboard/hospital/login
+- Login at http://fickmc.in/beacon-aid/dashboard/hospital/
 
 <br><br>
 
@@ -38,4 +37,4 @@ There are 3 parts:
 3. Fortis Ambulance (or Hosp 1)
     - Email: ambulance@fortis.com
     - Password: beacon
-- Login at https://jstseguru.in/geekahertz-beaconaid/dashboard/ambulance/
+- Login at http://fickmc.in/beacon-aid/dashboard/ambulance/
