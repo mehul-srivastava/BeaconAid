@@ -31,10 +31,10 @@ There are 3 parts:
 1. Jaypee Ambulance (or Hosp 1)
     - Email: ambulance@jaypee.com
     - Password: trix
-2. Max Ambulance (or Hosp 1)
+2. Max Ambulance (or Hosp 2)
     - Email: ambulance@maxhealthcare.com
     - Password: trix
-3. Fortis Ambulance (or Hosp 1)
+3. Fortis Ambulance (or Hosp 3)
     - Email: ambulance@fortis.com
     - Password: trix
 - Login at http://127.0.0.1/youth-ideathon/dashboard/ambulance/
