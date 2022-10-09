@@ -5,13 +5,13 @@ This is a software based on the idea that has been created on a very basic level
 The project has been deployed at http://127.0.0.1/youth-ideathon/
 
 There are 3 parts:
-## User
+## User Application
 - You can also register a new account with your own credentials
 - Login / signup at http://127.0.0.1/youth-ideathon/sign-in
 
 
 <br><br>
-## Hospital / Admin
+## Hospital / Admin Management Dashboard
 1. Jaypee Hospital (or Hosp 1)
     - Email: admin@jaypee.com
     - Password: trix
@@ -27,7 +27,7 @@ There are 3 parts:
 
 
 
-## Ambulance
+## Ambulance Application
 1. Jaypee Ambulance (or Hosp 1)
     - Email: ambulance@jaypee.com
     - Password: trix
