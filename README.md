@@ -2,7 +2,7 @@
 
 This is a software based on the idea that has been created on a very basic level to show the working of the idea.
 
-The project has been deployed at http://fickmc.in/beacon-aid/sign-in
+The project has been deployed at http://127.0.0.1/youth-ideathon/
 
 There are 3 parts:
 ## User
