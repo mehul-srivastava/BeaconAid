@@ -2,12 +2,12 @@
 
 This is a software based on the idea that has been created on a very basic level to show the working of the idea.
 
-The project has been deployed at http://127.0.0.1/youth-ideathon/
+The project has been deployed at https://beacon-aid.herokuapp.com/
 
 There are 3 parts:
 ## User Application
 - You can also register a new account with your own credentials
-- Login / signup at http://127.0.0.1/youth-ideathon/sign-in
+- Login / signup at https://beacon-aid.herokuapp.com/sign-in.php
 
 
 <br><br>
@@ -21,7 +21,7 @@ There are 3 parts:
 3. Fortix Hospital (or Hosp 3)
     - Email: admin@fortis.com
     - Password: trix
-- Login at http://127.0.0.1/youth-ideathon/dashboard/hospital/
+- Login at https://beacon-aid.herokuapp.com/dashboard/hospital/
 
 <br><br>
 
@@ -37,4 +37,4 @@ There are 3 parts:
 3. Fortis Ambulance (or Hosp 3)
     - Email: ambulance@fortis.com
     - Password: trix
-- Login at http://127.0.0.1/youth-ideathon/dashboard/ambulance/
+- Login at https://beacon-aid.herokuapp.com/dashboard/ambulance/
