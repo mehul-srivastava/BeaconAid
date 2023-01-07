@@ -7,7 +7,7 @@ The project has been deployed at https://beaconaid.000webhostapp.com/
 There are 3 parts:
 ## User Application
 - You can also register a new account with your own credentials
-- Login / signup at https://beaconaid.000webhostapp.com/sign-in.php
+- Login / signup at https://beaconaid.000webhostapp.com/signin.php
 
 
 <br><br>
